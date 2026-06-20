@@ -1,4 +1,4 @@
-df_pausemenu = '1.3.0'
+df_pausemenu = '1.3.1'
 df_loadscreen = '2.3.6'
 df_pvparenas = '1.0.5'
 df_multijob = '1.4.22'
